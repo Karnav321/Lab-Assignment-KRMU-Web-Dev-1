@@ -1,2 +1,2 @@
-My name is Karnva Tomar 
-This my portfolio 
+My name is Karnva Tomar, this is my portfolio 
+
